@@ -1,4 +1,8 @@
 _repo: The-Wiving-of-Lance-Cleaverage_48937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacGowan, Alice
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '32071'
     url: http://www.gutenberg.org/2009/agents/32071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48937#The-Wiving-of-Lance-Cleaverage
 gutenberg_issued: '2015-05-12'
 gutenberg_type: Text
 identifiers:
